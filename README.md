@@ -4,12 +4,9 @@
 ---
 
 ## 📺 Project Demonstration
-Below is a video showing the NPC detection logic in action within Unreal Engine 5.7.1.
+Below is a video link showing the NPC detection logic in action within Unreal Engine 5.7.1.
 
-<div align="center">
-  <h3>System Demonstration Video</h3>
-  <video src="ai_proximity_demo.mov" width="100%" controls></video>
-</div>---
+[**Click here to watch the AI Proximity Demo Video**](ai_proximity_demo.mov)
 
 ## 🧠 Technical Logic (Blueprints)
 This graph shows the event-driven logic that calculates the distance between the player and the NPC.
